@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">app-events-around</string>
+    <string name="event_list_date">Data</string>
+    <string name="event_list_preco">Preço</string>
+    <string name="event_detail_checkin">Check-in</string>
+    <string name="event_detail_share">Compartilhar</string>
+</resources>
